@@ -7,6 +7,6 @@ Problem 2
 --------
 
 
-![alt tag](http://imgur.com/EwTogbW)
+![alt tag](http://i.imgur.com/EwTogbW.png)
 
-![alt tag](http://s14.postimg.org/bm4xrz9gt/image.png)
+![alt tag](http://i.imgur.com/LN0niv5.png)
