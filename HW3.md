@@ -1,7 +1,7 @@
 Problem 1
 --------
 
-![alt tag](http://url/to/img.png)
+![alt tag](http://i.imgur.com/YrRmLm2.jpg)
 
 Problem 2
 --------
