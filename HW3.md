@@ -1,7 +1,10 @@
 Problem 1
 --------
 
-![alt tag](http://i.imgur.com/YrRmLm2.jpg)
+(a). lift(A,B) = P(A union B)/P(A)P(B) = (1500/4000)/(2500/4000)(2000/4000) = 1.2
+(b). Support = 1500/4000 = 37.5%
+     Confidence = 1500/(4000-1500)= 60% 
+    This is a Strong Threshhold
 
 Problem 2
 --------
