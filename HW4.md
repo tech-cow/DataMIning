@@ -15,3 +15,13 @@ Question 2
 statement (b) is false.
 * c) **True**
   - When items are price-ascending ordered, 𝑎𝑣𝑔(𝑆) ≥ 𝑣 is monotonic. So 𝑎𝑣𝑔(𝑆) ≥ 𝑣 is convertible into a monotonic rule and statement (c) is true.
+
+
+Question 3
+----------
+![](http://i.imgur.com/seOudLY.png)
+![](http://i.imgur.com/GzXEpTB.png)
+![](http://i.imgur.com/p4cxoSJ.png)
+![](http://i.imgur.com/dedfaJV.png)
+![](http://i.imgur.com/zi68hzd.png)
+![](http://i.imgur.com/LoFu6b2.png)
